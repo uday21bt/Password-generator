@@ -11,5 +11,5 @@ the challenge is to build out this virtual keyboard using the function,onclick e
 
 ### Links
 
-- Solution URL: [Click here](https://velvety-bavarois-9831ff.netlify.app/)
-- Live Site URL: [Click here](https://velvety-bavarois-9831ff.netlify.app/)
+- Solution URL: [Click here](https://stalwart-arithmetic-6836a7.netlify.app/)
+- Live Site URL: [Click here](https://stalwart-arithmetic-6836a7.netlify.app/)
